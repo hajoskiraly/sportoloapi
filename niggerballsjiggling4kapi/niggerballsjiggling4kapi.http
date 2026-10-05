@@ -1,0 +1,6 @@
+@niggerballsjiggling4kapi_HostAddress = http://localhost:5294
+
+GET {{niggerballsjiggling4kapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
